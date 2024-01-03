@@ -1,5 +1,5 @@
 pipeline {
-    agent { label "devops-server"}
+    agent { label "dev-server"}
     
     stages {
         
